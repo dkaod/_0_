@@ -1,0 +1,317 @@
+[19:33:04] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[19:33:04] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[19:33:04] [Server thread/INFO]: Loading properties
+[19:33:04] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:05] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[19:33:05] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[19:33:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:33:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:33:05] [Server thread/INFO]: Debug logging is disabled
+[19:33:05] [Server thread/INFO]: Data value allowed items: 
+[19:33:05] [Server thread/INFO]: Generating keypair
+[19:33:06] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[19:33:06] [Server thread/INFO]: Using default channel type
+[19:33:08] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:33:09] [Server thread/ERROR]: Could not load 'plugins/ChestShop.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Vault
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:222) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:293) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:202) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_322]
+[19:33:09] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.79
+[19:33:11] [Server thread/INFO]: [Magic] Loading Magic v5.5.6
+[19:33:11] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.4.19-Release
+[19:33:11] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[19:33:11] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v3.2.5
+[19:33:11] [Server thread/INFO]: [CustomEnchantments] Loading CustomEnchantments v2.4c
+[19:33:11] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v5.4.3
+[19:33:11] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.79
+[19:33:13] [Server thread/INFO]:         __    
+[19:33:13] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.79
+[19:33:13] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[19:33:13] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:33:16] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:33:21] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:33:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:33:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 12899ms)
+[19:33:24] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v3.2.5
+[19:33:24] [Server thread/INFO]: [PlayerPoints] Initializing using RoseGarden v1.1.0.42-SNAPSHOT
+[19:33:25] [Server thread/INFO]: [PlayerPoints] Data handler connected using SQLite.
+[19:33:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:33:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:33:26] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[19:33:26] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[19:33:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:33:26] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:33:27] [Server thread/INFO]: Preparing level "world"
+[19:33:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:33:27] [Server thread/INFO]: Mob Spawn Range: 4
+[19:33:27] [Server thread/INFO]: Anti X-Ray: true
+[19:33:27] [Server thread/INFO]: 	Engine Mode: 1
+[19:33:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:33:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:33:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:33:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:33:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:33:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:33:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:33:27] [Server thread/INFO]: Random Lighting Updates: false
+[19:33:27] [Server thread/INFO]: Structure Info Saving: true
+[19:33:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:33:27] [Server thread/INFO]: Max Entity Collisions: 8
+[19:33:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:33:27] [Server thread/INFO]: Max TNT Explosions: 100
+[19:33:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:33:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:33:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:33:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:33:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:33:27] [Server thread/INFO]: View Distance: 4
+[19:33:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:33:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:33:27] [Server thread/INFO]: Clear tick list: false
+[19:33:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:33:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:33:27] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:33:27] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:33:27] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:33:27] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:33:27] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:33:27] [Server thread/INFO]: Water over lava flow speed: 5
+[19:33:27] [Server thread/INFO]: Fix TNT cannons: false
+[19:33:27] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:33:27] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:33:27] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:33:27] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:33:27] [Server thread/INFO]: World async lighting: false
+[19:33:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:33:28] [Server thread/INFO]: Mob Spawn Range: 4
+[19:33:28] [Server thread/INFO]: Anti X-Ray: true
+[19:33:28] [Server thread/INFO]: 	Engine Mode: 1
+[19:33:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:33:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:33:28] [Server thread/INFO]: Random Lighting Updates: false
+[19:33:28] [Server thread/INFO]: Structure Info Saving: true
+[19:33:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:33:28] [Server thread/INFO]: Max Entity Collisions: 8
+[19:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:33:28] [Server thread/INFO]: Max TNT Explosions: 100
+[19:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:33:28] [Server thread/INFO]: View Distance: 4
+[19:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:33:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:33:28] [Server thread/INFO]: Clear tick list: false
+[19:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:33:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:33:29] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:33:29] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:33:29] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:33:29] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:33:29] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:33:29] [Server thread/INFO]: Water over lava flow speed: 5
+[19:33:29] [Server thread/INFO]: Fix TNT cannons: false
+[19:33:29] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:33:29] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:33:29] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:33:29] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:33:29] [Server thread/INFO]: World async lighting: false
+[19:33:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:33:29] [Server thread/INFO]: Mob Spawn Range: 4
+[19:33:29] [Server thread/INFO]: Anti X-Ray: true
+[19:33:29] [Server thread/INFO]: 	Engine Mode: 1
+[19:33:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:33:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:33:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:33:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:33:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:33:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:33:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:33:29] [Server thread/INFO]: Random Lighting Updates: false
+[19:33:29] [Server thread/INFO]: Structure Info Saving: true
+[19:33:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:33:29] [Server thread/INFO]: Max Entity Collisions: 8
+[19:33:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:33:29] [Server thread/INFO]: Max TNT Explosions: 100
+[19:33:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:33:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:33:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:33:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:33:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:33:29] [Server thread/INFO]: View Distance: 4
+[19:33:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:33:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:33:29] [Server thread/INFO]: Clear tick list: false
+[19:33:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:33:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:33:29] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:33:29] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:33:29] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:33:29] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:33:29] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:33:29] [Server thread/INFO]: Water over lava flow speed: 5
+[19:33:29] [Server thread/INFO]: Fix TNT cannons: false
+[19:33:29] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:33:29] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:33:29] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:33:29] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:33:29] [Server thread/INFO]: World async lighting: false
+[19:33:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3930827945629396762)
+[19:33:31] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:32] [Server thread/INFO]: Preparing spawn area: 2%
+[19:33:33] [Server thread/INFO]: Preparing spawn area: 6%
+[19:33:34] [Server thread/INFO]: Preparing spawn area: 17%
+[19:33:35] [Server thread/INFO]: Preparing spawn area: 49%
+[19:33:36] [Server thread/INFO]: Preparing spawn area: 62%
+[19:33:37] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3930827945629396762)
+[19:33:38] [Server thread/INFO]: Preparing spawn area: 17%
+[19:33:39] [Server thread/INFO]: Preparing spawn area: 38%
+[19:33:40] [Server thread/INFO]: Preparing spawn area: 55%
+[19:33:41] [Server thread/INFO]: Preparing spawn area: 73%
+[19:33:42] [Server thread/INFO]: Preparing spawn area: 90%
+[19:33:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3930827945629396762)
+[19:33:44] [Server thread/INFO]: Preparing spawn area: 73%
+[19:33:44] [Server thread/INFO]: [Magic] Enabling Magic v5.5.6
+[19:33:44] [Server thread/INFO]: [Magic] EffectLib initialized
+[19:33:44] [Server thread/INFO]: [Magic] Loading config.yml
+[19:33:45] [Server thread/INFO]: [Magic]  Based on defaults defaults/config.defaults.yml
+[19:33:45] [Server thread/INFO]: [Magic] Loading messages.yml
+[19:33:45] [Server thread/INFO]: [Magic]  Based on defaults defaults/messages.defaults.yml
+[19:33:45] [Server thread/INFO]: [Magic] Loading materials.yml
+[19:33:45] [Server thread/INFO]: [Magic]  Based on defaults defaults/materials.defaults.yml
+[19:33:45] [Server thread/INFO]: [Magic] Loading spells.yml
+[19:33:45] [Server thread/INFO]: [Magic]  Based on defaults defaults/spells.defaults.yml
+[19:33:46] [Server thread/INFO]: [Magic] Loading enchanting.yml
+[19:33:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/enchanting.defaults.yml
+[19:33:46] [Server thread/INFO]: [Magic] Loading wands.yml
+[19:33:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/wands.defaults.yml
+[19:33:46] [Server thread/INFO]: [Magic]   Loading Main.yml
+[19:33:46] [Server thread/INFO]: [Magic] Loading crafting.yml
+[19:33:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/crafting.defaults.yml
+[19:33:46] [Server thread/INFO]: [Magic] Loading mobs.yml
+[19:33:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/mobs.defaults.yml
+[19:33:46] [Server thread/INFO]: [Magic] Loading items.yml
+[19:33:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/items.defaults.yml
+[19:33:47] [Server thread/INFO]: [Magic] Wand enchanting is enabled
+[19:33:47] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[19:33:47] [Server thread/INFO]: [Magic] Wand anvil organizing is enabled
+[19:33:47] [Server thread/INFO]: [Magic] Skin-based custom icons enabled
+[19:33:47] [Server thread/INFO]: [Magic] Loaded 37 items
+[19:33:47] [Server thread/INFO]: [Magic] Loaded 11 mob templates
+[19:33:50] [Server thread/INFO]: [Magic] Loaded 358 spells
+[19:33:50] [Server thread/INFO]: [Magic] Loaded 14 enchanting paths
+[19:33:50] [Server thread/INFO]: [Magic] Loaded 105 wands
+[19:33:50] [Server thread/INFO]: [Magic] Loaded 16 crafting recipes
+[19:33:50] [Server thread/INFO]: [Magic] BlockPhysics not found- install BlockPhysics for physics-based block effects
+[19:33:50] [Server thread/INFO]: [Magic] LibsDisguises not found
+[19:33:50] [Server thread/INFO]: [Magic] Vault not found, virtual economy unavailable
+[19:33:50] [Server thread/INFO]: [Magic] dtlTraders not found, will not integrate.
+[19:33:50] [Server thread/INFO]: [Magic] Factions not found, will not integrate.
+[19:33:50] [Server thread/INFO]: [Magic] WorldGuard not found, region protection and pvp checks will not be used.
+[19:33:50] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[19:33:50] [Server thread/INFO]: [Magic] Lockette not found, will not integrate.
+[19:33:50] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
+[19:33:50] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
+[19:33:50] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[19:33:50] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[19:33:50] [Server thread/INFO]: [Magic] Activated MCStats
+[19:33:50] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SWORD
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for battle
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for divinghelmet
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardboots
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticeboots
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for goggles
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardchestplate
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticechestplate
+[19:33:50] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_HOE
+[19:33:50] [Server thread/INFO]: [Magic] Disabled default crafting recipe for WOOD_HOE
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for default
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardhelmet
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticehelmet
+[19:33:50] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_AXE
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for magichat
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardleggings
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticeleggings
+[19:33:50] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SPADE
+[19:33:50] [Server thread/INFO]: [Magic] Adding crafting recipe for broomstick
+[19:33:51] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.19-Release
+[19:33:51] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[19:33:52] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[19:33:52] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[19:33:52] [Server thread/INFO]: Minepacks-Connection-Pool - Starting...
+[19:33:52] [Server thread/INFO]: Minepacks-Connection-Pool - Driver does not support get/set network timeout for connections. (org.sqlite.Conn.getNetworkTimeout()I)
+[19:33:52] [Server thread/INFO]: Minepacks-Connection-Pool - Start completed.
+[19:33:53] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[19:33:53] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[19:33:53] [Server thread/INFO]: [Minepacks] Finished loading item translations for 634 items.
+[19:33:53] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[19:33:53] [Server thread/INFO]: [CustomEnchantments] Enabling CustomEnchantments v2.4c
+[19:33:54] [Server thread/INFO]: [CE] All Enchantments have been loaded.
+[19:33:54] [Server thread/INFO]: [CE] All Items have been loaded.
+[19:33:55] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v5.4.3
+[19:33:55] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
+[19:33:55] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
+[19:33:55] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
+[19:33:56] [Server thread/WARN]: [EconomyShopGUI] Failed to load default economy provider with reason 'Could not find Vault', trying to automatically find supported economy provider
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Detected PlayerPoints, initializing...
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Successfully hooked into PlayerPoints
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Completed loading '1' economy provider(s) for all 17 shop sections.
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.8.8...
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Spawner provider set to DEFAULT in config
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] This item material is not supported in this minecraft version.
+[19:33:56] [Server thread/WARN]: [EconomyShopGUI] Item path in config.yml: spawner-break-tools.3
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Using plugin default spawners...
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
+[19:33:56] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] This enchantment is not supported in this minecraft version.
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] Item path in shops.yml: Spells.1.enchantments.MENDING
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] This enchantment is not supported in this minecraft version.
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] Item path in shops.yml: Spells.1.enchantments.SWEEPING_EDGE:3
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] This enchantment is not supported in this minecraft version.
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] Item path in shops.yml: Spells.1.enchantments.MENDING
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] This enchantment is not supported in this minecraft version.
+[19:33:57] [Server thread/WARN]: [EconomyShopGUI] Item path in shops.yml: Spells.1.enchantments.SWEEPING_EDGE:3
+[19:33:57] [Server thread/INFO]: [EconomyShopGUI] Initialized - Took 2192ms to complete
+[19:33:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:33:58] [Server thread/INFO]: Done (31.808s)! For help, type "help" or "?"
+[19:33:58] [Server thread/INFO]: Timings Reset
+[19:34:00] [Server thread/INFO]: [Magic] Loading lost wand data
+[19:34:00] [Server thread/INFO]: [Magic] Loaded 2 lost wands
+[19:34:00] [Server thread/INFO]: [Magic] Loading automata data
+[19:34:00] [Server thread/INFO]: [Magic] Loaded 0 automata
+[19:34:00] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[19:34:00] [Server thread/INFO]: [Magic] Loaded 2 image maps
+[19:34:00] [Server thread/INFO]: [Magic] Finished loading data.
+[19:34:13] [Craft Scheduler Thread - 1/INFO]: [CE] Checking for updates...
+[19:34:14] [Craft Scheduler Thread - 1/INFO]: [CE] You are using the latest Version of CE!
