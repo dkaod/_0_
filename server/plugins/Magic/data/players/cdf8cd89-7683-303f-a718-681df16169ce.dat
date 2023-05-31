@@ -1,0 +1,794 @@
+id: cdf8cd89-7683-303f-a718-681df16169ce
+name: HIIIIIIIIIIIIIII
+last_cast: 1685023703590
+cooldown_expiration: 0
+last_death_location: 319.28704641658095,170.73584067272827,434.26413432084087,world,189.90002,1.8000002
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Blink
+- time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Shuriken
+spells:
+  flare:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrow:
+    cast_count: 5
+    last_cast: 1685017196277
+    last_earn: 1685017196282
+    cooldown_expiration: 0
+  rocket:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  smite:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  entangle:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  cure:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stun:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  secure:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tracking:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  whip:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shuriken|3:
+    cast_count: 55
+    last_cast: 1685023703590
+    last_earn: 1685023703590
+    cooldown_expiration: 1685023708590
+  reflect:
+    cast_count: 1
+    last_cast: 1685015409841
+    last_earn: 1685015409832
+    cooldown_expiration: 1685015412841
+  spellshop:
+    cast_count: 82
+    last_cast: 1685017004013
+    last_earn: 0
+    cooldown_expiration: 0
+  frost:
+    cast_count: 0
+    last_cast: 1684757294303
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 40
+    last_cast: 1684866402762
+    last_earn: 1684764367586
+    cooldown_expiration: 1684866403762
+  fire:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  hat:
+    cast_count: 1
+    last_cast: 1685015795323
+    last_earn: 1685015795311
+    cooldown_expiration: 1685015825323
+  homing:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tag:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  workbench:
+    cast_count: 2
+    last_cast: 1685015349704
+    last_earn: 0
+    cooldown_expiration: 0
+  enchantwand:
+    cast_count: 8
+    last_cast: 1685023122996
+    last_earn: 0
+    cooldown_expiration: 1685030322996
+  lightning:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  phase:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grenade:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grow:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chop:
+    cast_count: 1
+    last_cast: 1685015714702
+    last_earn: 1685015644321
+    cooldown_expiration: 0
+  gather:
+    cast_count: 0
+    last_cast: 1685016802254
+    last_earn: 0
+    cooldown_expiration: 0
+  admission:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  disarm:
+    cast_count: 1
+    last_cast: 1685015393922
+    last_earn: 1685015394236
+    cooldown_expiration: 1685015403922
+  push:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blob:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shuriken:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  curse:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  testdummy:
+    cast_count: 40
+    last_cast: 1685016264626
+    last_earn: 0
+    cooldown_expiration: 0
+  chainlightning:
+    cast_count: 2
+    last_cast: 1685016519122
+    last_earn: 1685015754618
+    cooldown_expiration: 0
+  boon:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blind:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boom:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  emp:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blink:
+    cast_count: 14
+    last_cast: 1685023068869
+    last_earn: 1685023068870
+    cooldown_expiration: 0
+  sandblast:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wave:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lava:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  walls:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  laser:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  bubble:
+    cast_count: 1
+    last_cast: 1685017475628
+    last_earn: 1685017475628
+    cooldown_expiration: 0
+  stream:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  flamethrower:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  recall:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  heal:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  camera:
+    cast_count: 2
+    last_cast: 1685015394428
+    last_earn: 0
+    cooldown_expiration: 1685015399428
+  ghast:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fireball:
+    cast_count: 0
+    last_cast: 1685015355904
+    last_earn: 0
+    cooldown_expiration: 0
+  mine:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  poison:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  counterspell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torch:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  familiar:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  disintegrate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  gatling:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  peek:
+    cast_count: 2
+    last_cast: 1684772871966
+    last_earn: 1684772857864
+    cooldown_expiration: 0
+  blast:
+    cast_count: 4
+    last_cast: 1685015877669
+    last_earn: 1685015877668
+    cooldown_expiration: 0
+  monster:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  pull:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  cloak:
+    cast_count: 1
+    last_cast: 1684764474406
+    last_earn: 1684764474406
+    cooldown_expiration: 0
+  arrowrain:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile|4:
+    cast_count: 136
+    last_cast: 1685023701190
+    last_earn: 1685023701190
+    cooldown_expiration: 1685023702190
+  wither:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile|2:
+    cast_count: 318
+    last_cast: 1685016169834
+    last_earn: 1685016169817
+    cooldown_expiration: 1685016170834
+  collapse:
+    cast_count: 3
+    last_cast: 1685023151686
+    last_earn: 1684848681460
+    cooldown_expiration: 1685023159686
+  missile|3:
+    cast_count: 50
+    last_cast: 1685016589330
+    last_earn: 1685016571416
+    cooldown_expiration: 1685016590330
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aApprentice Magic Wand
+        - §o§3Bound to HIIIIIIIIIIIIIII
+        - Knows 70 Spells
+        - '§d§oMana: 200'
+        - '§r§dMana Regeneration: 40/s'
+        - §bProtection III
+        - §bPhysical Protection IV
+        - §bFall Protection IV
+        - §bFire Protection III
+        - §bBlast Protection III
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG1UwZLcNBAVm9kwLBuSgoJzDilOPVuWbNmem45w4MxxSrblsWpsS8hyZkPxW/wfT84uWarwpZ8sqft192vdMXbHdlc9d3u2j2byo46Gfd2ZXq9j3LPXj/406Uf2SmTZnv3gg4umjdbNJz98WmyrR7bLHiqJ2+46m3CyHfvQdn3ddvXxUJV1fsizvD/oiteHsuZdz0teHluzZzvbupntr851p8Hhx0+m7+H85HWIth3NKejOrgt7lT2IPfu2M0sbrE/B2bsPXsfh/W/6bNv3v2/s775wSzfA6McXbM2jH90CtDxt7pIDdqe9D2ZGOMS/R67RTmaJevLsDS9rmYm8yoSsK+w+sWvd6AL7ua91LYXp2kaXVJSN7LJOSF43VJUVb2XbaVMjzu0fqzWRfcX37CbVRtdVa4zODxU/mkPB8+pQ60ofOC8kr/JeHHskez+42OiAYOuMy/jzevFmHJebv3U32SVlokpOOgR3VeKzDdrOSpbUjHqJiksAO3eKHzdwUZwDuEYVsM5NSuTJzorX1KxNMxpVUzvAyWjPQ5ztfFY8wx/nVV5SOzp9UXlOKMCo/WJUgqBnwkZNFQW1azCKi2SxLyR1dtFhUrJKyOLsOUBfqpAEqZGZEW6OSX2qwirq+QwWRU69nuxodVCFoN7CaV5vttEIVFI/6snEATmboMS2xpljssvQwAtQop8X1AeHYuSCzug3TssEts2ipPOQKiULOkMEugPlIyAqWlQ06KhKSYPRo8ozGty0XaoJMZKfHOCjVkLQl3KJinAKbJNFk0bzV6EymiA7lEmVgCuGhrwxFyVq8oiP05K8s0vqaE5+RYa8hF0GxQsKpk058wqoHyFAJTgF114MsjpSQONMsH8aWlDFz50vBS1ma0VxpGVIvZEZwBrsxUAhnJbJogsS52IwGkoogNZZiYyiPispKWIKunWaPilO0YUWXHKKQbeXlKes6QpWi5JHgI9GlQVdB+tVkdHVbnXOOV1duDSpx6rA+K5zF5z3GjpjuxhWDNzbFwOauvs0mrfbS8Le/fLrfz9cwIQGczbY1tug3xTZ/7wbru8XzBy85fDWQKTdc8jvMBFILayI+oLJvcb6ozltSmbf/Nu8Pfv+JUfkjPSfX7zdxRj/7GE3Q5Js9/ktunn07JbX2QPYvXlS+dMs34iKsX8A6TQGYXYFAAA=
+    wand:
+      active_spell: missile|4
+      path: apprentice
+      template: default
+      xp: 180.0
+      xp_regeneration: 40.0
+      xp_max: 200.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: f8a852edcba6,46b5d0d2518b,7671c5cdae85
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 2.0
+      icon: wood_hoe
+      keep: true
+      quiet: 1.0
+      protection: 0.5
+      protection_physical: 0.75
+      protection_falling: 0.75
+      protection_fire: 0.5
+      protection_explosions: 0.5
+      spells: admission@61,arrow@2,arrowrain@56,blast@15,blind@19,blink@11,blob@41,boom@23,boon@18,bubble@8,chainlightning@10,chop@36,cloak@33,collapse@3,counterspell@44,cure@12,curse@25,disarm@57,disintegrate@45,emp,enchantwand@7,entangle@43,familiar@42,fire@38,fireball@6,flamethrower@26,flare@9,flashbang,fling@34,frost@32,gather@5,gatling@46,ghast@54,grenade@29,grow@47,hat@65,heal@30,homing@48,laser@53,lava@22,lightning@27,mine@37,missile|4@0,monster@60,music,peek@28,phase@35,poison@63,pull@16,push@14,recall@17,reflect@21,rocket@39,rubberize,sandblast@62,secure@49,shell@50,shuriken@51,smite@52,stream@24,stun@20,tag@55,testdummy@1,torch@13,tracking@58,walls@59,wave@64,whip@40,wither@31,workbench@4
+      enchant_count: 27.0
+      id: a87ceea3-719e-4137-8a7a-1145173f29f2
+      owner: HIIIIIIIIIIIIIII
+      owner_id: cdf8cd89-7683-303f-a718-681df16169ce
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.685023702587E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 774

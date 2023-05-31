@@ -1,0 +1,91 @@
+id: c71da155-9f10-364e-b15d-35a88d588d8f
+name: Lighting_pig4_
+last_cast: 1684784876785
+cooldown_expiration: 0
+last_death_location: 304.6621577633525,64.0,450.00690966874345,world,37.65,9.900001
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+spells:
+  missile:
+    cast_count: 1
+    last_cast: 1684784876785
+    last_earn: 1684784877069
+    cooldown_expiration: 0
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aBeginner Magic Wand
+        - '§eCooldown: §6A Moment'
+        - §o§3Bound to Lighting_pig4_
+        - '§d§oMana: 50'
+        - '§r§dMana Regeneration: 5/s'
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG2QMVPcMBCFF3KAAgSoUlMwqTAj+yRL7vgBSZ3SI0srnya2pdhy7n5+9g5ClULFSqv3vfeuAa5hszeTY8AyjmkwGeHKoTfrkBlcxP2EM9x9D/0uh6lvU+hFy+DykNrRHOBccgb3NMzYI22aHOIEZ5LBV/QebW6TmXOwA7bR+wUzfOIvW2KddNvg4Mmq0plSyqLxJS+2tcCiK6UrttJo7SQd7clIF9fJwSbPKzLYBEsYto/RtbuI/6HNxoV1OdIqBjcOFzuHdDL38JRM3j3+MH2wjz9Pye/CRBskbXPoBvxHuTU0/8F2STgMcDWGZQnDkX4UANZhHyZKQYtUQA4jSZgxwZey1kJzqUXVlIpe373ZOMQZvpXCy0pxI72Vz8pprkuhnND2WdWIlRK84dYS5Rdi+gg8mZF8vdk9P9C95C9U/cXvNVCpZyXdHstUXirXKFXYpuKF2GpZaKVEwStshOOqljUJ3O5i7sxMjtbp7fPlKeMCn99DvpL2DRU+x5TMRyUAfwFyVv7jMAIAAA==
+    wand:
+      active_spell: missile
+      path: beginner
+      template: default
+      xp: 50.0
+      xp_regeneration: 5.0
+      xp_max: 50.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 14f5270a5fc5,7d808147d48c,76ee274090cc
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: wood_hoe
+      keep: true
+      quiet: 1.0
+      spells: missile@0
+      id: 7f57d977-c920-4385-8774-02e94d07656d
+      owner: Lighting_pig4_
+      owner_id: c71da155-9f10-364e-b15d-35a88d588d8f
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.684805842917E12
+open_wand: true
+gave_welcome_wand: false
+data:
+  sp: 7

@@ -1,0 +1,2070 @@
+id: 06860d6f-c2ef-3426-affa-e040ae7be869
+name: Lighting_pig4
+last_cast: 1685032930201
+cooldown_expiration: 0
+last_death_location: 354.37402613327583,56.0,380.44169470856235,world,-315.15002,-22.050009
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: 1
+  material: cobblestone
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Rocket
+- world: world
+  time_to_live: 0
+  name: Rocket
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: Chain Lightning
+- time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperBox
+- time_to_live: 0
+  name: Chain Lightning
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Fling
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Neutron Bomb
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: Kill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: SuperKill
+- world: world
+  time_to_live: 0
+  name: SuperKill
+- time_to_live: 0
+  name: Unlock Warp
+- world: world
+  blocks:
+  - 357,62,384,world|12:0
+  time_to_live: 0
+  name: Alter
+- time_to_live: 0
+  name: Kill
+- time_to_live: 0
+  name: Kill
+spells:
+  flare:
+    cast_count: 18
+    last_cast: 1684963359822
+    last_earn: 1684963357523
+    cooldown_expiration: 1684879219077
+  cluster:
+    cast_count: 21
+    last_cast: 1684945751090
+    last_earn: 1684886880747
+    cooldown_expiration: 1684879466054
+  torture|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torch|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  counterspell|2:
+    cast_count: 0
+    last_cast: 1684888385230
+    last_earn: 0
+    cooldown_expiration: 0
+  rocket:
+    cast_count: 14
+    last_cast: 1684967035820
+    last_earn: 1684967035817
+    cooldown_expiration: 0
+  commit:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stream|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  paint:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  cure:
+    cast_count: 0
+    last_cast: 1684864778128
+    last_earn: 0
+    cooldown_expiration: 0
+  absorb:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  animate:
+    cast_count: 0
+    last_cast: 1684888278160
+    last_earn: 0
+    cooldown_expiration: 1684876107051
+  nuke|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  reflect:
+    cast_count: 22
+    last_cast: 1684861569266
+    last_earn: 1684861535269
+    cooldown_expiration: 0
+  music:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  invisiblecloak:
+    cast_count: 6
+    last_cast: 1684964261516
+    last_earn: 0
+    cooldown_expiration: 0
+  lockpick:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  push|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  flare|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fire:
+    cast_count: 2
+    last_cast: 1684810770390
+    last_earn: 1684810770502
+    cooldown_expiration: 0
+  fireball|4:
+    cast_count: 0
+    last_cast: 1684888245464
+    last_earn: 0
+    cooldown_expiration: 0
+  farm:
+    cast_count: 1
+    last_cast: 1684888391042
+    last_earn: 0
+    cooldown_expiration: 0
+  homing:
+    cast_count: 54
+    last_cast: 1684941766206
+    last_earn: 1684941646144
+    cooldown_expiration: 1684880490165
+  silence:
+    cast_count: 2
+    last_cast: 1684807429816
+    last_earn: 1684785665882
+    cooldown_expiration: 0
+  magichat:
+    cast_count: 2
+    last_cast: 1684880286455
+    last_earn: 0
+    cooldown_expiration: 1684880296455
+  superring:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  supercube:
+    cast_count: 3
+    last_cast: 1684853223658
+    last_earn: 0
+    cooldown_expiration: 0
+  lightning:
+    cast_count: 30
+    last_cast: 1684963473813
+    last_earn: 1684963473809
+    cooldown_expiration: 1684880781154
+  rubberize:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lightning|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grow:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shrink:
+    cast_count: 14
+    last_cast: 1684874713153
+    last_earn: 1684874686644
+    cooldown_expiration: 0
+  night:
+    cast_count: 1
+    last_cast: 1684888179613
+    last_earn: 1684888179612
+    cooldown_expiration: 0
+  warpmenu:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  heal|3:
+    cast_count: 2
+    last_cast: 1684945803780
+    last_earn: 1684945806690
+    cooldown_expiration: 0
+  heal|2:
+    cast_count: 0
+    last_cast: 1684964444059
+    last_earn: 0
+    cooldown_expiration: 0
+  mount:
+    cast_count: 1
+    last_cast: 1684769023895
+    last_earn: 1684769023895
+    cooldown_expiration: 0
+  toss:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tornado|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superrepair:
+    cast_count: 25
+    last_cast: 1684890963213
+    last_earn: 0
+    cooldown_expiration: 0
+  shuriken:
+    cast_count: 50
+    last_cast: 1684886538899
+    last_earn: 1684886530162
+    cooldown_expiration: 0
+  pillar:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superbox:
+    cast_count: 1
+    last_cast: 1684967463896
+    last_earn: 0
+    cooldown_expiration: 0
+  poison|3:
+    cast_count: 0
+    last_cast: 1684888237654
+    last_earn: 0
+    cooldown_expiration: 0
+  bridge:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sponge:
+    cast_count: 1
+    last_cast: 1684774854987
+    last_earn: 1684774855264
+    cooldown_expiration: 1684774862987
+  forest:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boomstown:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  virus:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  iterate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  mine:
+    cast_count: 1
+    last_cast: 1684853478124
+    last_earn: 1684783876472
+    cooldown_expiration: 1684783886473
+  rollback:
+    cast_count: 1
+    last_cast: 1684876848005
+    last_earn: 0
+    cooldown_expiration: 0
+  chop|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superphase:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superbroom:
+    cast_count: 2
+    last_cast: 1684936514978
+    last_earn: 0
+    cooldown_expiration: 0
+  poison:
+    cast_count: 2
+    last_cast: 1684886521698
+    last_earn: 1684886521698
+    cooldown_expiration: 0
+  curse|2:
+    cast_count: 0
+    last_cast: 1684888380229
+    last_earn: 0
+    cooldown_expiration: 0
+  wolf:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  railgun:
+    cast_count: 89
+    last_cast: 1684945993799
+    last_earn: 1684945988994
+    cooldown_expiration: 0
+  column:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  meteor:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  laser|3:
+    cast_count: 0
+    last_cast: 1684888396341
+    last_earn: 0
+    cooldown_expiration: 0
+  frost|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  familiar:
+    cast_count: 1
+    last_cast: 1684768757116
+    last_earn: 0
+    cooldown_expiration: 0
+  monster:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blast:
+    cast_count: 7
+    last_cast: 1684880931097
+    last_earn: 1684880926400
+    cooldown_expiration: 0
+  pull:
+    cast_count: 0
+    last_cast: 1684768794305
+    last_earn: 0
+    cooldown_expiration: 0
+  torture:
+    cast_count: 14
+    last_cast: 1684880797993
+    last_earn: 1684880798194
+    cooldown_expiration: 1684880827993
+  cloak:
+    cast_count: 3
+    last_cast: 1684807409272
+    last_earn: 1684807409271
+    cooldown_expiration: 0
+  grab:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  secure|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  engineershop:
+    cast_count: 4
+    last_cast: 1684877983091
+    last_earn: 0
+    cooldown_expiration: 0
+  smite:
+    cast_count: 1
+    last_cast: 1684866016508
+    last_earn: 0
+    cooldown_expiration: 0
+  entangle:
+    cast_count: 16
+    last_cast: 1684963344930
+    last_earn: 1684963343422
+    cooldown_expiration: 0
+  glider:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling:
+    cast_count: 51
+    last_cast: 1684878248211
+    last_earn: 1684878248209
+    cooldown_expiration: 1684878253211
+  stun:
+    cast_count: 9
+    last_cast: 1684811194852
+    last_earn: 1684811001838
+    cooldown_expiration: 0
+  secure:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  bomb:
+    cast_count: 1
+    last_cast: 1684878700172
+    last_earn: 1684878703623
+    cooldown_expiration: 1684878712172
+  spellshop:
+    cast_count: 231
+    last_cast: 1684878200908
+    last_earn: 0
+    cooldown_expiration: 0
+  neutron:
+    cast_count: 50
+    last_cast: 1684875450571
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 22
+    last_cast: 1684880433657
+    last_earn: 1684880430656
+    cooldown_expiration: 1684880434657
+  wound|3:
+    cast_count: 12
+    last_cast: 1684887118974
+    last_earn: 1684887053574
+    cooldown_expiration: 1684878952979
+  hat:
+    cast_count: 1
+    last_cast: 1684823103172
+    last_earn: 1684823103172
+    cooldown_expiration: 1684823133172
+  workbench:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrowrain|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  enchantwand:
+    cast_count: 3
+    last_cast: 1684785335975
+    last_earn: 0
+    cooldown_expiration: 0
+  reflect|4:
+    cast_count: 2
+    last_cast: 1684888180106
+    last_earn: 1684888169909
+    cooldown_expiration: 0
+  levitate:
+    cast_count: 17
+    last_cast: 1684946064757
+    last_earn: 0
+    cooldown_expiration: 0
+  quests:
+    cast_count: 4
+    last_cast: 1684879253077
+    last_earn: 0
+    cooldown_expiration: 0
+  superconvert:
+    cast_count: 0
+    last_cast: 1684861470709
+    last_earn: 0
+    cooldown_expiration: 0
+  gather:
+    cast_count: 0
+    last_cast: 1684807472325
+    last_earn: 0
+    cooldown_expiration: 0
+  boon|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shell:
+    cast_count: 3
+    last_cast: 1684876848003
+    last_earn: 1684768547791
+    cooldown_expiration: 1684876853003
+  recurse:
+    cast_count: 1
+    last_cast: 1684786966066
+    last_earn: 1684786966066
+    cooldown_expiration: 1684786966566
+  gather|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boon:
+    cast_count: 1
+    last_cast: 1684768798508
+    last_earn: 1684768798507
+    cooldown_expiration: 0
+  blind:
+    cast_count: 1
+    last_cast: 1684768802890
+    last_earn: 1684768802889
+    cooldown_expiration: 0
+  boom:
+    cast_count: 41
+    last_cast: 1684886577467
+    last_earn: 1684886570564
+    cooldown_expiration: 0
+  supercollapse:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  emp:
+    cast_count: 0
+    last_cast: 1684963338992
+    last_earn: 0
+    cooldown_expiration: 1684758586315
+  superhemisphere:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blink:
+    cast_count: 38
+    last_cast: 1684945962497
+    last_earn: 1684945956394
+    cooldown_expiration: 1684878774340
+  paste:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blast|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wave:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  life:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lava:
+    cast_count: 3
+    last_cast: 1684963477801
+    last_earn: 1684963477803
+    cooldown_expiration: 0
+  laser:
+    cast_count: 4
+    last_cast: 1684881072391
+    last_earn: 1684881069192
+    cooldown_expiration: 0
+  icbm:
+    cast_count: 36
+    last_cast: 1684966780579
+    last_earn: 1684966781383
+    cooldown_expiration: 0
+  superalter:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blast|3:
+    cast_count: 0
+    last_cast: 1684963460951
+    last_earn: 0
+    cooldown_expiration: 0
+  blast|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grenade|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superblast:
+    cast_count: 2
+    last_cast: 1684850939511
+    last_earn: 0
+    cooldown_expiration: 0
+  disarm|3:
+    cast_count: 6
+    last_cast: 1684964456520
+    last_earn: 1684964366667
+    cooldown_expiration: 0
+  disarm|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boom|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  platform|2:
+    cast_count: 36
+    last_cast: 1684866501399
+    last_earn: 1684866332915
+    cooldown_expiration: 0
+  platform|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tame:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blob|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  hat|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile|4:
+    cast_count: 3
+    last_cast: 1684888133955
+    last_earn: 1684888130756
+    cooldown_expiration: 0
+  bubble|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wither:
+    cast_count: 2
+    last_cast: 1684865879597
+    last_earn: 1684865874266
+    cooldown_expiration: 0
+  tunnel:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stash:
+    cast_count: 5
+    last_cast: 1684860049568
+    last_earn: 1684860017913
+    cooldown_expiration: 1684860051568
+  missile|3:
+    cast_count: 0
+    last_cast: 1684941810496
+    last_earn: 0
+    cooldown_expiration: 0
+  mob:
+    cast_count: 1
+    last_cast: 1684888346464
+    last_earn: 0
+    cooldown_expiration: 0
+  backup:
+    cast_count: 1
+    last_cast: 1684851542727
+    last_earn: 0
+    cooldown_expiration: 0
+  invincible:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  convert:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tracking:
+    cast_count: 21
+    last_cast: 1684865789412
+    last_earn: 1684865723710
+    cooldown_expiration: 0
+  gills:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  upgradeshop:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  peek|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  pollinate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  architectshop:
+    cast_count: 5
+    last_cast: 1684878080067
+    last_earn: 0
+    cooldown_expiration: 0
+  neutron|2:
+    cast_count: 148
+    last_cast: 1685017830720
+    last_earn: 0
+    cooldown_expiration: 1684880448157
+  frost:
+    cast_count: 0
+    last_cast: 1684963365724
+    last_earn: 0
+    cooldown_expiration: 0
+  superpyramid:
+    cast_count: 1
+    last_cast: 1684853248059
+    last_earn: 0
+    cooldown_expiration: 0
+  weather:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  portal:
+    cast_count: 1
+    last_cast: 1684851914060
+    last_earn: 0
+    cooldown_expiration: 0
+  pickpocket:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  simulate:
+    cast_count: 1
+    last_cast: 1684879062080
+    last_earn: 0
+    cooldown_expiration: 0
+  phase:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  worm:
+    cast_count: 0
+    last_cast: 1684876344817
+    last_earn: 0
+    cooldown_expiration: 1684876404817
+  tendril:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chop:
+    cast_count: 22
+    last_cast: 1684865180116
+    last_earn: 1684865110458
+    cooldown_expiration: 0
+  push:
+    cast_count: 2
+    last_cast: 1684810789578
+    last_earn: 1684810790476
+    cooldown_expiration: 0
+  superemp:
+    cast_count: 6
+    last_cast: 1684874834430
+    last_earn: 0
+    cooldown_expiration: 0
+  mine|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  regenerate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  permafrost:
+    cast_count: 1
+    last_cast: 1684878996284
+    last_earn: 1684878997382
+    cooldown_expiration: 1684879026284
+  warpunlock:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sticky:
+    cast_count: 5
+    last_cast: 1684885657267
+    last_earn: 1684885613793
+    cooldown_expiration: 1684774822489
+  curse:
+    cast_count: 2
+    last_cast: 1684963466031
+    last_earn: 1684963466028
+    cooldown_expiration: 0
+  lift:
+    cast_count: 0
+    last_cast: 1684768998835
+    last_earn: 0
+    cooldown_expiration: 0
+  force:
+    cast_count: 63
+    last_cast: 1684964453419
+    last_earn: 0
+    cooldown_expiration: 0
+  arrow|6:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  supershell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blessing:
+    cast_count: 3
+    last_cast: 1684881048996
+    last_earn: 1684881049495
+    cooldown_expiration: 0
+  petrify:
+    cast_count: 3
+    last_cast: 1684888199371
+    last_earn: 1684888199370
+    cooldown_expiration: 1684768133088
+  anvil:
+    cast_count: 1
+    last_cast: 1684878206608
+    last_earn: 0
+    cooldown_expiration: 0
+  wear:
+    cast_count: 4
+    last_cast: 1684864992456
+    last_earn: 0
+    cooldown_expiration: 0
+  conduitshop:
+    cast_count: 3
+    last_cast: 1684878172108
+    last_earn: 0
+    cooldown_expiration: 0
+  nuke:
+    cast_count: 0
+    last_cast: 1684879495358
+    last_earn: 0
+    cooldown_expiration: 1684879555358
+  walls:
+    cast_count: 1
+    last_cast: 1684758587006
+    last_earn: 1684758587007
+    cooldown_expiration: 1684758597006
+  bubble:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stream:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sphere:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  recall:
+    cast_count: 0
+    last_cast: 1684768934623
+    last_earn: 0
+    cooldown_expiration: 0
+  place:
+    cast_count: 2
+    last_cast: 1684768940898
+    last_earn: 1684768940898
+    cooldown_expiration: 0
+  homing|2:
+    cast_count: 6
+    last_cast: 1684963024172
+    last_earn: 1684963013166
+    cooldown_expiration: 0
+  camera:
+    cast_count: 2
+    last_cast: 1684864999070
+    last_earn: 0
+    cooldown_expiration: 1684865004070
+  homing|4:
+    cast_count: 11
+    last_cast: 1684963276988
+    last_earn: 1684963253927
+    cooldown_expiration: 0
+  fireball:
+    cast_count: 12
+    last_cast: 1684964522417
+    last_earn: 1684964521524
+    cooldown_expiration: 0
+  blaster:
+    cast_count: 1
+    last_cast: 1684966644290
+    last_earn: 0
+    cooldown_expiration: 1684966645290
+  ledger:
+    cast_count: 1
+    last_cast: 1684966849086
+    last_earn: 0
+    cooldown_expiration: 0
+  tornado:
+    cast_count: 0
+    last_cast: 1684874892637
+    last_earn: 0
+    cooldown_expiration: 0
+  fury:
+    cast_count: 9
+    last_cast: 1684964002792
+    last_earn: 1684964006425
+    cooldown_expiration: 0
+  counterspell:
+    cast_count: 1
+    last_cast: 1684963385421
+    last_earn: 1684886110378
+    cooldown_expiration: 0
+  simulate3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chainlightning|3:
+    cast_count: 20
+    last_cast: 1685016222426
+    last_earn: 1684967077692
+    cooldown_expiration: 0
+  torch:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superkill:
+    cast_count: 58
+    last_cast: 1685019360869
+    last_earn: 0
+    cooldown_expiration: 0
+  kill:
+    cast_count: 5
+    last_cast: 1684886685494
+    last_earn: 1684886587564
+    cooldown_expiration: 1684878328561
+  gatling:
+    cast_count: 3
+    last_cast: 1684866049324
+    last_earn: 1684866023511
+    cooldown_expiration: 0
+  superdome:
+    cast_count: 1
+    last_cast: 1684853265257
+    last_earn: 0
+    cooldown_expiration: 0
+  peek:
+    cast_count: 1
+    last_cast: 1684853637015
+    last_earn: 1684777458371
+    cooldown_expiration: 1684777463372
+  wave|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  phasebackup:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  gatling|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  defender:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wolfhouse:
+    cast_count: 1
+    last_cast: 1684876809860
+    last_earn: 0
+    cooldown_expiration: 1684876829860
+  tracking|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  brushselect:
+    cast_count: 4
+    last_cast: 1684853352842
+    last_earn: 0
+    cooldown_expiration: 0
+  admission|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  kill|2:
+    cast_count: 50
+    last_cast: 1684853931110
+    last_earn: 1684853933411
+    cooldown_expiration: 1684850536019
+  arrow:
+    cast_count: 0
+    last_cast: 1684810741768
+    last_earn: 0
+    cooldown_expiration: 0
+  kill|3:
+    cast_count: 72
+    last_cast: 1685032930201
+    last_earn: 1685017867308
+    cooldown_expiration: 0
+  cure|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shuriken|2:
+    cast_count: 17
+    last_cast: 1684945945144
+    last_earn: 1684945936544
+    cooldown_expiration: 0
+  flashbang:
+    cast_count: 3
+    last_cast: 1684875062993
+    last_earn: 1684875063491
+    cooldown_expiration: 0
+  whip:
+    cast_count: 6
+    last_cast: 1684878240508
+    last_earn: 1684878241709
+    cooldown_expiration: 1684878245508
+  shuriken|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling|2:
+    cast_count: 101
+    last_cast: 1684878249412
+    last_earn: 1684878249410
+    cooldown_expiration: 1684878251412
+  healing:
+    cast_count: 0
+    last_cast: 1684852259855
+    last_earn: 0
+    cooldown_expiration: 0
+  fling|3:
+    cast_count: 151
+    last_cast: 1684878250810
+    last_earn: 1684878250809
+    cooldown_expiration: 1684878251810
+  cage:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling|4:
+    cast_count: 380
+    last_cast: 1685017793239
+    last_earn: 1685017793170
+    cooldown_expiration: 0
+  tag:
+    cast_count: 1
+    last_cast: 1684963194442
+    last_earn: 1684963194442
+    cooldown_expiration: 0
+  hunter:
+    cast_count: 0
+    last_cast: 1684939655548
+    last_earn: 0
+    cooldown_expiration: 0
+  recall|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  day:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  alter:
+    cast_count: 1
+    last_cast: 1685019594528
+    last_earn: 1685019594528
+    cooldown_expiration: 0
+  wither|3:
+    cast_count: 0
+    last_cast: 1684888377466
+    last_earn: 0
+    cooldown_expiration: 0
+  superdisc:
+    cast_count: 3
+    last_cast: 1684850986310
+    last_earn: 0
+    cooldown_expiration: 0
+  grenade:
+    cast_count: 3
+    last_cast: 1684865795829
+    last_earn: 1684864941197
+    cooldown_expiration: 0
+  superbackup:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  broom:
+    cast_count: 26
+    last_cast: 1685024734941
+    last_earn: 0
+    cooldown_expiration: 1685024736310
+  stun|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tree:
+    cast_count: 166
+    last_cast: 1684963057658
+    last_earn: 1684963030185
+    cooldown_expiration: 0
+  superregenerate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  earthquake:
+    cast_count: 3
+    last_cast: 1684963375725
+    last_earn: 1684963377422
+    cooldown_expiration: 0
+  admission:
+    cast_count: 0
+    last_cast: 1684768800219
+    last_earn: 0
+    cooldown_expiration: 0
+  disarm:
+    cast_count: 4
+    last_cast: 1684886442471
+    last_earn: 1684886440701
+    cooldown_expiration: 0
+  fill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sticky|3:
+    cast_count: 2
+    last_cast: 1684886972647
+    last_earn: 1684886973150
+    cooldown_expiration: 0
+  floodfill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blob:
+    cast_count: 15
+    last_cast: 1684876848000
+    last_earn: 1684815707193
+    cooldown_expiration: 0
+  superblob:
+    cast_count: 1
+    last_cast: 1684851965491
+    last_earn: 1684851965649
+    cooldown_expiration: 0
+  fury|3:
+    cast_count: 1
+    last_cast: 1684890788665
+    last_earn: 1684888432547
+    cooldown_expiration: 0
+  collapse|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chainlightning:
+    cast_count: 33
+    last_cast: 1684966976651
+    last_earn: 1684966976850
+    cooldown_expiration: 0
+  tent:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  repair:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sandblast|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  volley:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  magicitemshop:
+    cast_count: 25
+    last_cast: 1684877038114
+    last_earn: 0
+    cooldown_expiration: 0
+  box:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sandblast:
+    cast_count: 1
+    last_cast: 1684875034992
+    last_earn: 1684875035294
+    cooldown_expiration: 0
+  platform:
+    cast_count: 50
+    last_cast: 1684864219543
+    last_earn: 1684864175415
+    cooldown_expiration: 0
+  shell|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  harden:
+    cast_count: 1
+    last_cast: 1684763828213
+    last_earn: 1684763828213
+    cooldown_expiration: 1684763829213
+  breach|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wound:
+    cast_count: 26
+    last_cast: 1684878777329
+    last_earn: 1684874908135
+    cooldown_expiration: 1684878782329
+  flamethrower:
+    cast_count: 15
+    last_cast: 1684963354423
+    last_earn: 1684963353026
+    cooldown_expiration: 1684878268671
+  cat:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  heal:
+    cast_count: 22
+    last_cast: 1684886430864
+    last_earn: 1684886362652
+    cooldown_expiration: 0
+  singularity:
+    cast_count: 1
+    last_cast: 1684885567665
+    last_earn: 1684885574352
+    cooldown_expiration: 0
+  ghast:
+    cast_count: 1
+    last_cast: 1684763817610
+    last_earn: 0
+    cooldown_expiration: 1684763847610
+  supertorch:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  breach:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  harden|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fire|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  supercylinder:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  disintegrate:
+    cast_count: 8
+    last_cast: 1684963451964
+    last_earn: 1684963390920
+    cooldown_expiration: 1684758682296
+  levitate|5:
+    cast_count: 7
+    last_cast: 1685016428409
+    last_earn: 0
+    cooldown_expiration: 1685016429409
+  levitate|4:
+    cast_count: 5
+    last_cast: 1684964003488
+    last_earn: 0
+    cooldown_expiration: 1684963778214
+  earth:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrowrain:
+    cast_count: 0
+    last_cast: 1684874778433
+    last_earn: 0
+    cooldown_expiration: 0
+  collapse:
+    cast_count: 2
+    last_cast: 1684777363481
+    last_earn: 1684777363666
+    cooldown_expiration: 0
+  blink|6:
+    cast_count: 5
+    last_cast: 1684888164955
+    last_earn: 1684888136059
+    cooldown_expiration: 0
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Kill§f (§3Wand§f)
+        lore:
+        - §o§aConduit Magic Wand
+        - §o§3Bound to Lighting_pig4
+        - Knows 148 Spells
+        - Has 96 Materials
+        - '§d§oMana: 400'
+        - '§r§dMana Regeneration: 70/s'
+        - §bManifestation
+        - §bCooldown Reduction X
+        - §bProtection V
+        - §bPhysical Protection V
+        - §bFall Protection V
+        - §bFire Protection V
+        - §bBlast Protection V
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: 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
+    wand:
+      active_spell: kill|3
+      active_material: cobblestone
+      path: conduit
+      template: default
+      xp: 520.0
+      xp_regeneration: 70.0
+      xp_max: 400.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      consume_reduction: 1.0
+      cooldown_reduction: 5.0
+      effect_color: 646d9a2b890d,b2109e043017,b597ea9ea7b5
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 3.0
+      icon: gold_pickaxe
+      mode_cast: manual
+      keep: true
+      quiet: 1.0
+      protection: 1.0
+      protection_physical: 0.9
+      protection_falling: 1.0
+      protection_fire: 1.0
+      protection_explosions: 1.0
+      materials: cobblestone,dirt,erase@148,glass,glowstone,grass,gravel,ice,leaves,log,map@149,mycel,obsidian,packed_ice,quartz_block,redstone_block,sand,schematic:blacksmith,schematic:church,schematic:compact_house,schematic:creeper_rug,schematic:elder_tree,schematic:garden_house,schematic:lantern,schematic:nathanwolf,schematic:rainbow_blocks,schematic:small_house,soul_sand,stained_clay,stained_clay:0,stained_clay:1,stained_clay:10,stained_clay:11,stained_clay:12,stained_clay:13,stained_clay:14,stained_clay:15,stained_clay:2,stained_clay:3,stained_clay:4,stained_clay:5,stained_clay:6,stained_clay:7,stained_clay:8,stained_clay:9,stained_glass,stained_glass:0,stained_glass:1,stained_glass:10,stained_glass:11,stained_glass:12,stained_glass:13,stained_glass:14,stained_glass:2,stained_glass:3,stained_glass:4,stained_glass:5,stained_glass:6,stained_glass:7,stained_glass:8,stained_glass:9,stained_glass_pane,stained_glass_pane:0,stained_glass_pane:1,stained_glass_pane:10,stained_glass_pane:11,stained_glass_pane:12,stained_glass_pane:13,stained_glass_pane:14,stained_glass_pane:15,stained_glass_pane:2,stained_glass_pane:3,stained_glass_pane:4,stained_glass_pane:5,stained_glass_pane:6,stained_glass_pane:7,stained_glass_pane:8,stained_glass_pane:9,stone,vine,wood,wool:0,wool:10,wool:11,wool:12,wool:13,wool:14,wool:15,wool:2,wool:3,wool:4,wool:5,wool:6,wool:7,wool:8,wool:9
+      spells: absorb@50,admission@65,alter@32,anvil@46,architectshop@74,arrow@58,arrowrain@62,backup@48,blast|3@28,blessing@24,blind@63,blink@10,blob@86,bomb@103,boom|2@12,boon@107,breach@110,bridge@143,brushselect@21,bubble@59,cage@137,chainlightning|3@70,chop@23,cloak@96,cluster@1,collapse@25,conduitshop@26,convert@27,counterspell@42,cure@29,curse@30,day@31,disarm|3@2,disintegrate@33,earthquake@34,emp@35,enchantwand@36,engineershop@37,entangle@38,familiar@39,fill@40,fire@41,fireball@0,flamethrower@43,flare@44,flashbang@45,fling|4@3,floodfill@47,force@7,frost@49,fury@22,gather@51,gatling@52,ghast@53,grenade@54,grow@55,harden@56,hat@57,heal|2@5,homing|2@18,icbm@60,invincible@61,kill|3@6,laser@91,lava@64,levitate|4@19,lift@66,lightning@67,meteor@68,mine@69,missile|3@17,monster@71,mount@72,music@73,neutron|2@4,night@75,nuke@76,paint@77,paste@78,peek@79,permafrost@80,petrify@81,phase@82,pillar@83,place@84,platform@85,poison@9,pollinate@87,portal@88,pull@89,push@90,railgun@8,recall@92,recurse@93,reflect@94,repair@95,rocket@16,rollback@97,rubberize@98,sandblast@99,secure@100,shell@101,shrink@102,shuriken|2@11,silence@104,simulate@105,singularity@13,smite@106,sponge@108,stash@109,sticky|3@14,stream@111,stun@112,superalter@113,superblast@114,superblob@115,superbox@116,superconvert@117,supercube@118,supercylinder@119,superdisc@120,superdome@121,superemp@122,superpyramid@123,superrepair@124,superring@125,supershell@126,supertorch@127,tag@128,tame@129,tendril@130,tent@131,torch@132,tornado@133,torture@134,toss@135,tracking@136,tree@20,tunnel@138,volley@139,walls@140,warpunlock@141,wave@142,weather@147,whip@144,wither@145,workbench@146,wound|3@15
+      enchant_count: 78.0
+      id: c988047f-eded-4163-ad1c-ca2866d12473
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.685032932899E12
+  minister:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §dThe Minister
+        lore:
+        - §o§aFor Magic!
+        - '§eCooldown: §610 seconds'
+        - §7Lasts for 60 seconds
+        - §o§3Bound to Lighting_pig4
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG2SP2/bMBDFD40bMK7bsUsXFehoGdSfyvIYFOjUTM0uUORRYk2JAknHX68frac4VRo02o6P793vjloDrGF1FqNi8NadR/Tw/ofp+mjGrplMVzJgEYfJiojABjOaENEz+Ihao4zNJHw00mLjtA4Y4YrvCrI8JjVGwRde1RVXlU5ljjotyrxKhdYiRV5ygfsW6+pArVt3GhWsoj8hg5WRboR156xqwiQUHb1TGKQ3UzSz8t355E50Rn5+hcQLZU5hJskZ3LgH9N6QG3633rlhN1Cn2LTOhdiQ4RiSivPtRQvWnRsakNjDhKgSvuNft//7Jrrw6zRMpL8iJ+XfuH+Tns6eaGlAfQo0zCJcAnoUNvZJ/oLogpkx+GBGmoSWJKNpLS77Gpyi4tvtz3sGG0HiA85traXFzjF0ZRKxX6rNQmGdh098KwRfvq3WzwU5j4jT0mkUA8LmvsfkbvkX3szvXGcHocpDldaZbtOyaOu0LguRSpXl+X6fy6KuGFxbJ4+4PPT1I2R45updbIUnLtoFXGU7DvAHTsHENKICAAA=
+    wand:
+      active_spell: broom
+      path: broom
+      template: minister
+      bound: true
+      indestructible: true
+      effect_color: 0,aa0000000000,ff0000000000
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: gold_spade
+      mode: CAST
+      keep: true
+      locked: true
+      overrides: broom.mount_boost_ticks 600,broom.slow_steer_speed 0.05,broom.mount_boost_per_jump 0.5,broom.mount_boost 4,broom.steer_speed 0,broom.effect_confusion 0,broom.mount_health 20,broom.slow_ticks 1
+      spells: broom
+      id: 819ad496-81fb-43b8-843a-cd122772c386
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: The Minister
+      description: For Magic!
+  wolf:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6SuperKill§f (§3The Wolf§f)
+        lore:
+        - §o§aNathanWolf's Staff/Broom
+        - §o§3Bound to Lighting_pig4
+        - Knows 180 Spells
+        - Has 50 Materials
+        - §3Superpowered
+        - §bSaturation I
+        - §bRegeneration I
+        - §bManifestation
+        - §bCost Reduction X
+        - §bCooldown Reduction X
+        - §3Invulnerability
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: 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
+    wand:
+      active_spell: superkill
+      active_material: erase
+      path: architect
+      template: wolf
+      bound: true
+      indestructible: true
+      undroppable: true
+      consume_reduction: 1.0
+      cost_reduction: 2.0
+      cooldown_reduction: 2.0
+      effect_color: 0,a95af230d906,cb39ef6dd140
+      effect_particle: ENCHANTMENT_TABLE
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 3.0
+      icon: gold_hoe
+      mode: INVENTORY
+      keep: true
+      overrides: max_dimension 1024
+      potion_effects: SATURATION,REGENERATION
+      materials: bedrock,clone@19,copy@17,diamond_block,dirt,emerald_block,erase@16,glass,glowstone,gold_block,grass,ice,iron_block,lapis_block,lava,leaves,log,map:128@21,map@20,mycel,obsidian,packed_ice,quartz_block,quartz_block:1,quartz_block:2,redstone_block,replicate@18,schematic:beacon,schematic:blacksmith,schematic:church,schematic:compact_house,schematic:creeper_rug,schematic:elder_tree,schematic:flare_beacon,schematic:garden_house,schematic:lantern,schematic:rainbow_blocks,schematic:small_house,schematic:stash_chest,sea_lantern,soul_sand,stained_clay,stained_glass,stained_glass_pane,stationary_lava,stationary_water,vine,water,wood,wool
+      spells: absorb@8,admission|2,alter@90,animate@51,anvil@45,arrowrain|2@72,arrow|6@35,backup@91,blast|4@132,blessing@115,blind,blink|6@1,blob|4@57,bomb,boomstown,boom|2@37,boon|4@135,box@92,breach|3,bridge@29,bubble|2@74,cage,camera@133,cat,chainlightning|3@166,chop|3,cloak,cluster,collapse|2@58,column,commit@93,convert@94,counterspell|2@59,cure|4@42,curse|2@66,day@47,defender@52,disarm|3@73,disintegrate@31,earth,earthquake,emp@81,entangle@60,familiar@85,farm@86,fill@10,fireball|4@61,fire|3@33,flamethrower@62,flare|2@114,flashbang,fling|4@2,floodfill,force@34,forest,frost|4,fury|3@167,gather|2@40,gatling|2@168,ghast@38,gills@24,glider@56,grab,grenade|2@78,grow@26,harden|2@181,hat|3@142,healing@49,heal|3@6,homing|4@4,hunter@53,icbm@79,invincible@75,iterate@95,kill|3@36,laser|3@80,lava,levitate|5@0,life@82,lift@41,lightning|3@87,lockpick,meteor@44,mine|4@123,missile|4@3,mob@67,monster@68,mount@116,music@46,neutron|2@69,night@48,nuke|2@117,paint@27,paste@50,peek|4@153,permafrost,petrify@39,phase@118,phasebackup,pickpocket@134,pillar@96,place@9,platform|4@136,poison|3@77,pollinate,portal@119,pull@25,push|4@88,railgun,recall|3@23,recurse@97,reflect|4@43,regenerate@98,repair@99,rocket@76,rollback@15,rubberize,sandblast|2,secure|2,shell|4@63,shrink@64,shuriken|3@101,silence,simulate3@84,simulate@83,singularity@120,smite,sphere,sponge,stash@137,sticky|3@161,stream|3,stun|3@65,superalter@32,superbackup,superblast@100,superblob@11,superbox@105,superbroom@7,supercollapse@106,superconvert@12,supercube,supercylinder,superdisc@107,superdome@108,superemp,superhemisphere,superkill@5,superphase,superpyramid@109,superregenerate@110,superrepair@14,superring@111,supershell@13,supertorch,tag@70,tame,tendril@30,tent,torch|4@22,tornado|2,torture|3@121,toss@112,tracking|4@155,tree@89,tunnel,virus@54,volley@113,walls,warpmenu,warpunlock,wave|2@147,weather,whip,wither|3@71,wolf,wolfhouse@122,workbench,worm@55,wound|3@28
+      powered: true
+      protected: true
+      id: 2f8db846-5f37-48dc-b6a4-f848d869d68d
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: The Wolf
+      description: NathanWolf's Staff/Broom
+  rage:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      amount: 0
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §dRage Sword
+        lore:
+        - §o§aGathers energy when hitting an enemy
+        - §o§3Bound to Lighting_pig4
+        - Knows 8 Spells
+        - '§d§oMana: 200'
+        - '§4§oMana Rage: 5/HP'
+        - §bPhysical Protection II
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG1STY+bMBCd3U22dD9aVZV6zmHVE0SGEMjekKqql57aH4AGPAYrYLu22Wz+fU26affQE2b8/Oa9N3MDcAPXzbTfS38Bi27Qh4tQWRxQ8QgiT6MZ0BMsLHYUwfWzqUd8hmXG2JpF8NFY7an1Uqva9EcnWxzgiq034a0+KLK15PDAil3BeCGSNiORbPKsSFAITIjlDKlsaFc8RrCQrVZwzyWOWvHaHbQNEm45udZKM7eAh2/oe7JuRYG6O64OPalVL72XqluhmsvjMYJPJEQQVRu0XrYD1Ra5nNwsLAt9TCAJntH7IVi6C5a8HMl5HA18SNfFLg9yU1ayx83XNDy4e6Fr9aAtfE6ZoDwry3KTtrEg2lIuRENNE7++ieBytp43eZuxzS7ZhcSSYHebPOK2TUSTc55vc2p4gC5/TZI8XKVzpteDbvfEYeHtNEfuDA2Dgy9orT5ULG60Hqs0bifrqMpiIS1Vm9OnwWGo8rizpJBTtY1H6ZwcqCpiM7m+KoOXXvsGbfAyqXPD20lxq43BZqBz1+VpenD/XXb9nG5tZJf/J1kthJuVn0a+bALrX+HvpAqzC+ewHq+Y346aU92i8+fKHQbEE9Uno/DmRfQZOUs7Ixd7on8/CkeCmx9hMVc//yzL5XO4LU+b+X5EhbUJG8hxDBC42q4ZwG+ZKXij8AIAAA==
+    wand:
+      active_spell: missile
+      path: battle
+      template: rage
+      xp: 70.0
+      xp_max: 200.0
+      mana_per_damage: 5.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 10fe4277731c,fee5e4ffbebb,10fe4277731c
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: diamond_sword
+      mode_cast: true
+      mode_drop: true
+      keep: true
+      locked: true
+      quiet: 1.0
+      protection_physical: 0.3
+      spells: arrow@0,boom@1,curse@2,fire@3,fireball@4,grenade@5,missile@6,push@7
+      id: 4b4c2038-8200-40a5-9a5c-fb4dd454ebdc
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: Rage Sword
+      description: Gathers energy when hitting an enemy
+      xp_timestamp: 1.684860107093E12
+  staff:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Levitate§f (§dThe Staff§f)
+        lore:
+        - §o§aUse it Wisely!
+        - §o§3Bound to Lighting_pig4
+        - Knows 11 Spells
+        - §bCost Reduction X
+        - §3Invulnerability
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG2RMW/bMBCFD41jKI6bsUsXF+hIBYotKep/yNYWGYUTdZQI0yJBnpMW8I/vKU3tpdyOxL3vvccVwAoWrzj1GWRMh+CQCa4TozEZXPvXiSJ8fLLDyHYa2mCHMoNPZAxpbgNGttpR641JxHBV3O9E5m2ptT18LeqmLvra5HpLJt+V2zoXXcypKAukx46a+ptQOn+celhwPFIGC6v9BOvBu15weo+/6D/EiL09ppm4zeC2p6SjDWxl8+5noo3lzbNN5H5/yeDOTvIu4ppt5+gfZ40yv1CbAjkHK0cvliX7SfItAvIIywMmpigC2iduI/WzghCutvdFBjchehZPdHa+fjepvfMRPhfKmOJ8FOJlEMSeKJwjT3gguPkx0ub73+I/zO1VNT4Y1JRXO6rysqwqaQ8f8oq0aZpHbLq6EuroucMo1OPE796Wzuv9xdjyLWOC587ZaX+qlXYe98rINJxKNUhaimokdOpSg5o15g9QB5uSdfPVPIZZmhXbAyn2UY9zY7fygdGHgOeCAf4AGJ5rCFsCAAA=
+    wand:
+      active_spell: levitate|4
+      path: master
+      template: staff
+      bound: true
+      indestructible: true
+      undroppable: true
+      cost_reduction: 2.0
+      effect_color: 0,ff0000000000,aa0000000000
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 2.0
+      icon: gold_pickaxe
+      keep: true
+      locked: true
+      spells: blink|6,cloak,fling|4,gather,heal,levitate|4,lockpick,missile|4,pickpocket,time,torch|4
+      protected: true
+      id: 56a1face-53e5-4455-afa1-5ecf887a8b65
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: The Staff
+      description: Use it Wisely!
+  Main:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Wand Upgrade Shop§f (§3Wand§f)
+        lore:
+        - §o§aBeginner Magic Wand
+        - §o§3Bound to Lighting_pig4
+        - Knows 30 Spells
+        - '§d§oMana: 200'
+        - '§r§dMana Regeneration: 40/s'
+        - §bPhysical Protection II
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAGVTS2+cMBB2k01EXn2oUs85RD2ZCJvn3rjkUKlJpapq1RMyMAZrATvGdLdSfnyHJS+pNw/MfN83M9+cEnJKVlsx1B7xHPSmEw7I6laowSPHO1P0YkeOeBBcBx75aKx2UDmlh8K0f0dViY4cBtcca/V2AFuomlwFSZYEdSL9ioP0w4gnvpBS+BBEgYC0hCxZe2SlKj0Qr9FdXYgdeOQTSInYhRHWqaqDwopaTeMj/lkNY2WVmbnJ+ysjXHt5KxpVXf7aa1/1ugZy8uXu583dj2/ff+OXOYd4JTRqQGkeOcdunOphdKI35AO7TrIoS5M4ZSwLbxiSnD9KqHSnLfnMJdQySQWDqKQ8DmQalxCnaUllBiKJ6iCAGLmP7icFjhyyeUYH8whYncQiZeDXMpJ+FEPilyxIfMnCcl1VPOZVinStdqWwSDcNWB7O5cejga4b39TCWr3NeUKrFnfRqaZ1gxqahzCPadVpsckDCjiq9n4SG8gTCgNmDm5eZZ5RafXo8oi2IDqsYbQTI1h8cU47qBuwY6tNzgL6GpqtaQ8OtM1ZSns1jqqDnNNh2sADz1NqwPZigWYJNdPY5jym9xPOdMyjmFpAR8x8EadjrxwWB3Q0YvbGwsfo0uA+CDFYXpg+IfhGdV3OQ+pmwOc8nlGn7SBqjSI4mwM3WUAazFwA1tRtQWwWsIhOpkH3wBLGdKtcu2+eZXSr7aacZ5VzXMHZNNRWGyPKDl3v7IRGPNpbmVx8nQeDcymMaiKPvEP7WGgA/4m9C1fR/ij+862WcpztEFyHCFbicusn6LdqQFX4xht6xXguMP4Dxb5l1PSi3iMns7GLWeRT9moD8BIMokec5QgOdub5Vi8e/fDkLjQnIf8AdIbEwO4DAAA=
+    wand:
+      active_spell: upgradeshop
+      path: beginner
+      template: Main
+      xp: 200.0
+      xp_regeneration: 40.0
+      xp_max: 200.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 2fedf67a1e4b,250f75be577b,f8ea64d00e5d
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 3.0
+      icon: gold_axe
+      mode: INVENTORY
+      mode_drop: true
+      keep: true
+      quiet: 1.0
+      protection_physical: 0.2
+      spells: arrow@26,chainlightning|3@5,cloak@0,earthquake@6,enchantwand@8,frost@4,heal|3@1,laser|3@22,ledgershop@10,lightning|3@19,meteor@17,missile@2,nuke|2@7,permafrost@16,push@25,quests@45,recall|3@42,smite@20,spawnershop@11,spellshop@13,spshop@12,superkill@23,testspellshop@28,tornado|2@21,torture|3@3,tpshop@9,tweakshop@14,upgradeshop@15,wither|3@18,workbench@27
+      enchant_count: 1.0
+      id: 1d65a71e-df4f-45e6-b106-f13b9cc252c7
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.684876571183E12
+  master:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aWizard Magic Wand
+        - §o§3Bound to Lighting_pig4
+        - Knows 48 Spells
+        - '§d§oMana: 250'
+        - '§r§dMana Regeneration: 50/s'
+        - §bPhysical Protection V
+        - §bFall Protection V
+        - §bFire Protection V
+        - §bBlast Protection V
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAGVTyW7bMBBlEyVVE7fpgvScQ45UIG+Kfcyhty5A0SJAL8JIGkmEKZIY0rHbr+/QcVAjvXCf997MPJ4JcSaSDZgmFRfYtliH0gEFVWsUr358u/9a3v38fpeKNODgNAQUpwP4gJSK060rB9iKk8k8v8lT8cGRDQygrCld/9urGrQ4zm8WHG03BqlUjbjOi0WRN0Wb1RNss+lsUmTQtpBhPssBbytcFMtUJKq2RqSd1U0JW0zFeYO+JuUiunh77SD0V1+gU/XV/U78x2fiS4JGrX3kn6Ti8kAabp22nld+Ly6JYP/SGnFaQQ3oAwxOvBvfFIvZ4rYYL/P5dPlpzGijPVdttSWRGGtY4OVzAbVdmyCOJ7E0RzHzWVG18/lkmjHeLJu100W2rBaYLXHeLBHbaV61XFXvUGv/4hcQ2Q2BMrLS6L0yHS+UWfFoK1lZO8iKEOpe1r11ckeHtIuWjfJAQ5wUH3bEfZPcP4kmgOk0yhYGpRWQbBXxTsOAoWc+pLjxfcXPeBVJW0s1PyHrg+wg7M46QgMN8mw3sgdq0PAUZI+gJcczjIYHkFp1fTAxYlAGeeA8mH3g4rNWOazZJNL1HCCjuZhqkM4qbw1PFBiMbL3CIGldVUjqD0rP7a6YIkjfx1R9T7Eo3lnT8W3gkgwyQCcDJysDQb2K/BsVembccJXYLaPehgroqUfj2KNzviHrHHC5RRJozU29OPBNrNTeMSc7O4vXn2N6jF461c34NTuHsEO+g51Pk8eP8Z83bdt6DBFsymBV1PTE+EYZdjqvmfRAyPtDIaBjE/ayR8CnD1juGi9e7kvMrl4huqfwxHCDRfL4VY62bv9nhfgLKZY53gAEAAA=
+    wand:
+      active_spell: missile
+      path: master
+      template: master
+      xp: 250.0
+      xp_regeneration: 50.0
+      xp_max: 250.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: none
+      effect_particle: TOWN_AURA
+      effect_particle_count: 2.0
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: gold_axe
+      keep: true
+      protection_physical: 0.8
+      protection_falling: 1.0
+      protection_fire: 0.8
+      protection_explosions: 0.8
+      spells: arrowrain,blessing,blink,blob,boom,breach,chop,counterspell,disarm,disintegrate,emp,entangle,familiar,fire,flamethrower,flashbang,fling,force,frost,gatling,grenade,grow,harden,hat,heal,laser,lava,lightning,mine,missile,monster,music,phase,platform,poison,portal,rocket,rubberize,sandblast,shell,shrink,sponge,stream,tag,tent,tracking,wither,wound
+      id: 46bf5523-8484-4f38-9b8e-9e5d9eef30bf
+      owner: Lighting_pig4
+      owner_id: 06860d6f-c2ef-3426-affa-e040ae7be869
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.684876190539E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 12078

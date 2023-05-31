@@ -1,0 +1,233 @@
+id: 2213e1b9-de36-3668-831f-055c586e04bb
+name: birb
+last_cast: 1684858220619
+cooldown_expiration: 0
+last_death_location: 331.49578082587925,64.0,444.04028560301214,world,283.95,-90.0
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Test Dummy
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+spells:
+  frost:
+    cast_count: 1
+    last_cast: 1684850800753
+    last_earn: 1684850774030
+    cooldown_expiration: 0
+  missile:
+    cast_count: 22
+    last_cast: 1684858220121
+    last_earn: 1684858220121
+    cooldown_expiration: 1684858221121
+  fire:
+    cast_count: 3
+    last_cast: 1684756962191
+    last_earn: 1684756949103
+    cooldown_expiration: 0
+  testdummy:
+    cast_count: 9
+    last_cast: 1684757044687
+    last_earn: 0
+    cooldown_expiration: 0
+  torch:
+    cast_count: 1
+    last_cast: 1684756939100
+    last_earn: 1684756939100
+    cooldown_expiration: 0
+  enchantwand:
+    cast_count: 1
+    last_cast: 1684756917487
+    last_earn: 0
+    cooldown_expiration: 0
+  blast:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aBeginner Magic Wand
+        - §o§3Bound to birb
+        - Knows 7 Spells
+        - '§d§oMana: 57'
+        - '§r§dMana Regeneration: 8/s'
+        - §bPhysical Protection I
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG1RS2/UMBCeLmlrlRaQkDj3UHFKqnUc53GLuHPmGNnOZGORxMFx2O2/Z7LdIg7c7LHne94B3EF0VFPLgAUc50EFhNsWO7UOgcHNaW5GdYKdLBh8nr0LaIJ1UzP3L4s1aoB3+2dOu+44oW9sC09pygVyXSUtijwReV4mpeBdspfSyDLHfaY1g8gaNwE7Otc2vUMGX7DrCLuZlQ/WDNh41dp12fBTBu9bXIy388YNn55mFfrH7+pgzeOPs/ZomwDTeLATCWFwT8KDHXEJapzhgedlVok8lbwSGb1eyIwbnIevKc+KqpNZS+pio1UluORlUXSx1LqQVVGoAnMG179WiwGuyPBus1qYrsKMi0SkIkuyLMVEp7JLUt7yrFRK55Uhst4FrTyRrdPr8s0y4zAs8E0Pagl1FuNkejWFrYeax531WMu4844eRTzaZbED1vs4kJ12HceXOo+D86avt2jWqfVunpUeEKLgVwrz+lwHRNp6yvojZeHxgDRS5wCvyv/k7bpuIXOUtyAATWLbN7gPdqL86Uzd/8Nyr+j+G5uzG7i96KQyfiLOb5+iSY208VrT7kRzWTzvGTxcPP+NBeAP4bMB8o0CAAA=
+    wand:
+      active_spell: missile
+      path: beginner
+      template: default
+      xp: 57.0
+      xp_regeneration: 8.0
+      xp_max: 57.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 21479f54d6e0,cba93151877f,5bb75977a7e6
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: wood_hoe
+      keep: true
+      quiet: 1.0
+      protection_physical: 0.1
+      spells: blast@4,enchantwand@1,fire@5,frost@3,missile@0,testdummy@6,torch@2
+      enchant_count: 1.0
+      id: 7cf9e413-3234-442e-b25f-21d148aab69c
+      owner: birb
+      owner_id: 2213e1b9-de36-3668-831f-055c586e04bb
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.684936251934E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 76

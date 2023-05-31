@@ -1,0 +1,153 @@
+#
+# Modify this file to change the available spells.
+# New spells can be added, existing spells modified or removed (disabled)
+#
+
+#
+# This is the Spell configuration file for the Magic plugin.
+#
+# Here you may alter default spell behavior, or add and remove spells.
+#
+# See https://github.com/elBukkit/MagicPlugin/blob/master/SPELLS.md for more information.
+#
+# To see the default spells and configurations, look in defaults/spells.defaults.yml
+# 
+# The name, description, and usage of a spell should be defined in messages.yml as
+#  messages.spells.<spellkey>.name
+#  messages.spells.<spellkey>.description
+#  messages.spells.<spellkey>.usage
+#  messages.spells.<spellkey>.cast
+#  ... etc.
+#
+# General format:
+#
+# <spellkey>:
+#       icon:  <material name>
+#       category: <anything>
+#       class: <Must be a class from the spells package.>
+#       costs:
+#           xp: <xp/mana amount>
+#           <material_name>: <reagent amount>#      
+#       parameters:
+#           <specific spell parameters- TODO: list common ones>
+#
+
+
+
+
+
+
+default:
+    # Spells take 15 minutes to return to full SP earning potential
+    earns_cooldown: 1000
+    # Enable this to prevent spell casts outside the world border
+    world_border_restricted: false
+    parameters:
+      bypass_confusion: true
+      bypass_weakness: true
+    effects:
+       target_selected:
+       - class: EffectSingle
+         location: origin
+         sound: magic.hit
+         sound_volume: 0.5
+       - class: EffectSingle
+         location: target
+         use_block_location: true
+         color_override: color
+         effectlib:
+           class: CubeEffect
+           iterations: 15
+           particle: redstone
+           color: "00FFAA"
+           edgeLength: 1.2
+           enableRotation: false
+           offset: 0.5,0.5,0.5
+       - class: EffectTrail
+         particle: spell_mob
+       fail:
+       - class: EffectSingle
+         location: origin
+         sound: note_bass_drum
+         sound_volume: 0.8
+         sound_pitch: 1.2
+       insufficient_resources:
+       - class: EffectSingle
+         location: origin
+         sound: note_bass
+         sound_volume: 0.7
+         sound_pitch: 1.2
+       insufficient_permission:
+       - class: EffectSingle
+         location: origin
+         sound: note_bass
+         sound_volume: 0.9
+         sound_pitch: 1.5
+       cooldown:
+       - class: EffectSingle
+         location: origin
+         sound: note_bass_drum
+         sound_volume: 0.6
+         sound_pitch: 0.8
+       cursed:
+       - class: EffectSingle
+         location: origin
+         entity_effect: hurt
+       backfire:
+       - class: EffectSingle
+         location: origin
+         entity_effect: hurt
+       blocked:
+       - class: EffectSingle
+         location: origin
+         entity_effect: hurt
+       upgrade:
+       - class: EffectSingle
+         location: origin
+         sound: level_up
+         firework: ball_large
+       break:
+       - class: EffectSingle
+         location: target
+         effect: step_sound
+       earn_sp:
+       - class: EffectSingle
+         location: origin
+         sound: level_up
+         sound_volume: 0.6
+         sound_pitch: 0.75
+       - class: EffectSingle
+         location: origin
+         sound: orb_pickup
+         sound_volume: 0.4
+         sound_pitch: 1.5
+       earn_scaled_sp:
+       - class: EffectSingle
+         location: origin
+         sound: orb_pickup
+         sound_volume: 0.6
+         sound_pitch: 1.5
+       reflect:
+       - class: EffectSingle
+         location: target
+         particle: fireworks_spark
+         particle_count: 3
+         particle_offset_x: 0.1
+         particle_offset_y: 0.1
+         particle_offset_z: 0.1
+         sound: magic.shimmer_quiet
+       cast_self: cast
+       no_target: cast
+       no_action: cast
+       alternate: cast
+       alternate_up: cast
+       alternate_down: cast
+       alternate_sneak: cast
+       fizzle: fail
+       cancelled: fail
+       entity_required: fail
+       living_entity_required: fail
+       player_required: fail
+       location_required: fail
+       world_required: fail
+       invalid_world: fail

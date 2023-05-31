@@ -1,0 +1,356 @@
+id: 7975ad3e-4132-36c8-ac42-a67dafb1f3fa
+name: negro
+last_cast: 1685019978103
+cooldown_expiration: 0
+last_death_location: 376.01043823826865,67.41999998688698,455.29898655874314,world,-348.15002,15.900002
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Blink
+- world: world
+  time_to_live: 0
+  name: Heal
+- time_to_live: 0
+  name: Heal
+- time_to_live: 0
+  name: Heal
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Poison
+- world: world
+  time_to_live: 0
+  name: Tracking Sense
+- world: world
+  time_to_live: 0
+  name: Tracking Sense
+- world: world
+  time_to_live: 0
+  name: Tracking Sense
+- world: world
+  time_to_live: 0
+  name: Tracking Sense
+- world: world
+  time_to_live: 0
+  name: Heal
+- time_to_live: 0
+  name: Heal
+- world: world
+  time_to_live: 0
+  name: Tracking Sense
+- world: world
+  time_to_live: 0
+  name: Tracking Sense
+spells:
+  boom:
+    cast_count: 8
+    last_cast: 1685018677227
+    last_earn: 1685018677329
+    cooldown_expiration: 0
+  rocket:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  entangle:
+    cast_count: 5
+    last_cast: 1685019015437
+    last_earn: 1685019015537
+    cooldown_expiration: 0
+  blink:
+    cast_count: 8
+    last_cast: 1684935749593
+    last_earn: 1684935542583
+    cooldown_expiration: 0
+  fling:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tracking:
+    cast_count: 5
+    last_cast: 1685019880568
+    last_earn: 1685019880567
+    cooldown_expiration: 0
+  lava:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  laser:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stream:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  flamethrower:
+    cast_count: 92
+    last_cast: 1685019978103
+    last_earn: 1685019978401
+    cooldown_expiration: 0
+  frost:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 7
+    last_cast: 1685018563538
+    last_earn: 1685017739637
+    cooldown_expiration: 0
+  heal:
+    cast_count: 2
+    last_cast: 1685019116978
+    last_earn: 1685019039098
+    cooldown_expiration: 0
+  fire:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tag:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  portal:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lightning:
+    cast_count: 13
+    last_cast: 1685019878521
+    last_earn: 1685019878521
+    cooldown_expiration: 0
+  mine:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grenade:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  poison:
+    cast_count: 0
+    last_cast: 1685018579440
+    last_earn: 0
+    cooldown_expiration: 0
+  shrink:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chop:
+    cast_count: 0
+    last_cast: 1684935803183
+    last_earn: 0
+    cooldown_expiration: 0
+  familiar:
+    cast_count: 1
+    last_cast: 1684935833812
+    last_earn: 0
+    cooldown_expiration: 0
+  disarm:
+    cast_count: 0
+    last_cast: 1685019010870
+    last_earn: 0
+    cooldown_expiration: 0
+  monster:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blob:
+    cast_count: 4
+    last_cast: 1684935792581
+    last_earn: 1684935757893
+    cooldown_expiration: 0
+  shell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrowrain:
+    cast_count: 1
+    last_cast: 1684936004767
+    last_earn: 1684935881893
+    cooldown_expiration: 0
+  wither:
+    cast_count: 4
+    last_cast: 1685019966354
+    last_earn: 1685019889326
+    cooldown_expiration: 0
+wands:
+  student:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Flamethrower§f (§3Wand§f)
+        lore:
+        - §o§aStudent Magic Wand
+        - §o§3Bound to negro
+        - Knows 29 Spells
+        - '§d§oMana: 150'
+        - '§r§dMana Regeneration: 30/s'
+        - §bFall Protection III
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG1SO1PcMBAWcCQeuCRMCmoKSpmx5Od1+gOpU3rW8trWnCx5ZB3Hz8/6SBiKVFrtrL7X6o6xO7Y7g+sTlkScFwsR2dc1nnp0MWG3/uwwsFuHY/AJ+/K2tDO8sRtRZgn7QbeAI9IEROMdu86p+4jDgDq2C4RotMXWD8OKkd1kLzmRXABb07Pn+lCX0OeYFiKXaV7pJgVdyBSquoehE0M+ACno/Mn1bBfDCRO2M5p4krP3fTt5/A9bgN6c1o1NJuy+x1UHs1zUPTwvEKenXzAa/fT7Yvm7cTRB0DqazuI/lj3Q/RXbdUFr2X6wMGOcgj9jSNjPJfhIlATZDmCtcePGVpK4Df9TeHvKJ5qZCGBe2DdRNWUmiyaTsiFt+7/Ktbc+sIeMD3ioocgqLPOMU5C7I+LyYdyRBrZ7l339trBbWsELTV1vUVaN1hlCkUrsyrQo8iJtihpSMWDd6eYgmrIixsnHDgIxnlxkV4L2eXG4Xj1CIHcBjFPE3ZGno5IHKnyncsE772dVcD35RR14b1YIsyo5mQQ3WlQVH2A21kBQIueDCaga/jk1Rd0tKCXIZvBrVELwMaCDHpWQfEKwquYWVpoVBRWvoETJrRmn6LaHks/G0WxN57oaIpUNn71b4/biwBdvVu+UaKgKkdCk4MHrI0YlJV8nsqlkTkW4eCs4bR1hVrLkEQi+4jGAPl408rOJE8FSuvf094JfFvj4HYz9AXlTWO00AwAA
+    wand:
+      active_spell: flamethrower
+      path: student
+      template: student
+      xp: 150.0
+      xp_regeneration: 30.0
+      xp_max: 150.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 0,fe97a406e530,0
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: wood_hoe
+      keep: true
+      protection_falling: 0.5
+      spells: arrowrain@30,blink@29,blob@31,boom@4,chop@9,disarm@5,entangle@6,familiar@13,fire@8,flamethrower@3,fling@10,frost@11,grenade@12,heal@7,laser@14,lava@15,lightning@2,mine@17,missile@28,monster@19,poison@18,portal@21,rocket@22,shell@23,shrink@24,stream@25,tag@26,tracking@1,wither@0
+      id: 68cc0ea4-2eb5-4434-847a-1fe7bc891856
+      owner: negro
+      owner_id: 7975ad3e-4132-36c8-ac42-a67dafb1f3fa
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.685024802282E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 290

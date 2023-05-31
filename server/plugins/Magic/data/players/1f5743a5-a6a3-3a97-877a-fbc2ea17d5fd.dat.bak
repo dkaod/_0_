@@ -1,0 +1,262 @@
+id: 1f5743a5-a6a3-3a97-877a-fbc2ea17d5fd
+name: EaglYeeler896
+last_cast: 1684857615419
+cooldown_expiration: 0
+last_death_location: 328.5,68.6537296175886,430.35317655172537,world,-21.000002,-6.3000007
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+spells:
+  missile:
+    cast_count: 33
+    last_cast: 1684857615022
+    last_earn: 1684773032683
+    cooldown_expiration: 1684857616022
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      amount: 0
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aBeginner Magic Wand
+        - '§eCooldown: §6A Moment'
+        - §o§3Bound to EaglYeeler896
+        - '§d§oMana: 50'
+        - '§r§dMana Regeneration: 5/s'
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAAAG2QPXPUMBCGN+Eu0SQXoKJOkaGKM7Zl+eMHUFIzVJ61tLrTIFvClrn7+exdIENBuTu778dzB3AHmyNORoBINEaPieDWkMXVJwHbcJxohocvuPffiTzNbVcLuDnFfsQTXKtcwAceZtoTH2JyYYIrJeATWUs69RHn5LSnPli7UIJ3+Ytkq4ts7ww8FVY1lUSVYY0yk9g1Wds0mNlBl4RFY5TlbNshrJOBTZpXErBxmm3EMQTTHwL9x21G49bl7FYKuDe06NnFS7iPTxHT4fEr7p1+/HYp/t5NfMHSOrnB01+XHfL8i/olkvdwO7plcf7sfhYAMdDeTdyCDxlAciNL4BjhoajbqlVN21W1ZBK7P9l08GGGzw1qmRdU11iWz00+dHlXNEpX1TNVRVWXHQ6mOrv8IIpvhSccOddr3OsT71X+wui3P1fHUK8K3p5hlnlHJFWZDcaqrOqkzLCsMTOyHTrbttYWzGN3CGnAmROt0+vzzaXj8k/Je8Y9hxjxDQjAb513P98tAgAA
+    wand:
+      active_spell: missile
+      path: beginner
+      template: default
+      xp: 50.0
+      xp_regeneration: 5.0
+      xp_max: 50.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 7ac301e66a22,70b909175c44,e414629abd4e
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: wood_hoe
+      keep: true
+      quiet: 1.0
+      spells: missile
+      id: 209ee352-bdf5-4933-a26a-d38b9f88ff12
+      owner: EaglYeeler896
+      owner_id: 1f5743a5-a6a3-3a97-877a-fbc2ea17d5fd
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.684857894635E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 88

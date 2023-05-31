@@ -1,0 +1,22 @@
+'1':
+  world: world
+  url: http://skins.minecraft.net/MinecraftSkins/Lighting_pig4.png
+  x: 8
+  y: 8
+  width: 8
+  height: 8
+  enabled: true
+  name: Photo of Lighting_pig4
+  x_overlay: 40
+  y_overlay: 8
+'2':
+  world: world
+  url: http://skins.minecraft.net/MinecraftSkins/HIIIIIIIIIIIIIII.png
+  x: 8
+  y: 8
+  width: 8
+  height: 8
+  enabled: true
+  name: Photo of HIIIIIIIIIIIIIII
+  x_overlay: 40
+  y_overlay: 8
